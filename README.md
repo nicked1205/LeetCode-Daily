@@ -6,18 +6,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/nicked1205/LeetCode-Daily/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Binary Search
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/2394-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
