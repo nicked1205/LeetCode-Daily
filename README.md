@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/nicked1205/LeetCode-Daily/tree/master/0002-add-two-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nicked1205/LeetCode-Daily/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Stack
 |  |
 | ------- |
@@ -59,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0868-push-dominoes](https://github.com/nicked1205/LeetCode-Daily/tree/master/0868-push-dominoes) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0806-domino-and-tromino-tiling](https://github.com/nicked1205/LeetCode-Daily/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/nicked1205/LeetCode-Daily/tree/master/0868-push-dominoes) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -75,10 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nicked1205/LeetCode-Daily/tree/master/0001-two-sum) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nicked1205/LeetCode-Daily/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/nicked1205/LeetCode-Daily/tree/master/2215-finding-3-digit-even-numbers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Counting
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nicked1205/LeetCode-Daily/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Simulation
 |  |
 | ------- |
