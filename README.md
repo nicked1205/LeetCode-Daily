@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/nicked1205/LeetCode-Daily/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/nicked1205/LeetCode-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nicked1205/LeetCode-Daily/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nicked1205/LeetCode-Daily/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/nicked1205/LeetCode-Daily/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
@@ -60,17 +61,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0868-push-dominoes](https://github.com/nicked1205/LeetCode-Daily/tree/master/0868-push-dominoes) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0806-domino-and-tromino-tiling](https://github.com/nicked1205/LeetCode-Daily/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/nicked1205/LeetCode-Daily/tree/master/0868-push-dominoes) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
 |  |
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nicked1205/LeetCode-Daily/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nicked1205/LeetCode-Daily/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Hash Table
 |  |
