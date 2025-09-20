@@ -25,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/nicked1205/LeetCode-Daily/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3827-implement-router](https://github.com/nicked1205/LeetCode-Daily/tree/master/3827-implement-router) |
 ## Binary Search
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/nicked1205/LeetCode-Daily/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3827-implement-router](https://github.com/nicked1205/LeetCode-Daily/tree/master/3827-implement-router) |
 ## Sliding Window
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/nicked1205/LeetCode-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nicked1205/LeetCode-Daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3827-implement-router](https://github.com/nicked1205/LeetCode-Daily/tree/master/3827-implement-router) |
 ## Counting
 |  |
 | ------- |
@@ -147,4 +150,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nicked1205/LeetCode-Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Design
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/nicked1205/LeetCode-Daily/tree/master/3827-implement-router) |
+## Queue
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/nicked1205/LeetCode-Daily/tree/master/3827-implement-router) |
+## Ordered Set
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/nicked1205/LeetCode-Daily/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
