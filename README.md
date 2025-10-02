@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nicked1205/LeetCode-Daily/tree/master/0002-add-two-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nicked1205/LeetCode-Daily/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/nicked1205/LeetCode-Daily/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3336-water-bottles-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Stack
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1642-water-bottles](https://github.com/nicked1205/LeetCode-Daily/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/nicked1205/LeetCode-Daily/tree/master/2048-build-array-from-permutation) |
+| [3336-water-bottles-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3336-water-bottles-ii) |
 ## Graph
 |  |
 | ------- |
