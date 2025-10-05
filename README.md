@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nicked1205/LeetCode-Daily/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/nicked1205/LeetCode-Daily/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
 | [0407-trapping-rain-water-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nicked1205/LeetCode-Daily/tree/master/0417-pacific-atlantic-water-flow) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/nicked1205/LeetCode-Daily/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
 | [0868-push-dominoes](https://github.com/nicked1205/LeetCode-Daily/tree/master/0868-push-dominoes) |
 ## String
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/nicked1205/LeetCode-Daily/tree/master/0016-3sum-closest) |
 | [2215-finding-3-digit-even-numbers](https://github.com/nicked1205/LeetCode-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nicked1205/LeetCode-Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Enumeration
