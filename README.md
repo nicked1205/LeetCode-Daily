@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/nicked1205/LeetCode-Daily/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/nicked1205/LeetCode-Daily/tree/master/0066-plus-one) |
 | [0407-trapping-rain-water-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nicked1205/LeetCode-Daily/tree/master/0417-pacific-atlantic-water-flow) |
 | [0713-subarray-product-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/0713-subarray-product-less-than-k) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nicked1205/LeetCode-Daily/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/nicked1205/LeetCode-Daily/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/nicked1205/LeetCode-Daily/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/nicked1205/LeetCode-Daily/tree/master/0066-plus-one) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nicked1205/LeetCode-Daily/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/nicked1205/LeetCode-Daily/tree/master/1642-water-bottles) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/nicked1205/LeetCode-Daily/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
