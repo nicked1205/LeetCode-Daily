@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nicked1205/LeetCode-Daily/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/nicked1205/LeetCode-Daily/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nicked1205/LeetCode-Daily/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1428-jump-game-iii](https://github.com/nicked1205/LeetCode-Daily/tree/master/1428-jump-game-iii) |
 | [2048-build-array-from-permutation](https://github.com/nicked1205/LeetCode-Daily/tree/master/2048-build-array-from-permutation) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/nicked1205/LeetCode-Daily/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2215-finding-3-digit-even-numbers](https://github.com/nicked1205/LeetCode-Daily/tree/master/2215-finding-3-digit-even-numbers) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nicked1205/LeetCode-Daily/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0794-swim-in-rising-water) |
+| [1428-jump-game-iii](https://github.com/nicked1205/LeetCode-Daily/tree/master/1428-jump-game-iii) |
 ## Number Theory
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/nicked1205/LeetCode-Daily/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0794-swim-in-rising-water) |
+| [1428-jump-game-iii](https://github.com/nicked1205/LeetCode-Daily/tree/master/1428-jump-game-iii) |
 ## Union Find
 |  |
 | ------- |
