@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/nicked1205/LeetCode-Daily/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nicked1205/LeetCode-Daily/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/nicked1205/LeetCode-Daily/tree/master/0066-plus-one) |
 | [0407-trapping-rain-water-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0407-trapping-rain-water-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nicked1205/LeetCode-Daily/tree/master/0055-jump-game) |
 | [0806-domino-and-tromino-tiling](https://github.com/nicked1205/LeetCode-Daily/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/nicked1205/LeetCode-Daily/tree/master/0868-push-dominoes) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nicked1205/LeetCode-Daily/tree/master/0055-jump-game) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nicked1205/LeetCode-Daily/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nicked1205/LeetCode-Daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
