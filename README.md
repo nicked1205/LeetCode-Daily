@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/nicked1205/LeetCode-Daily/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/nicked1205/LeetCode-Daily/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3827-implement-router](https://github.com/nicked1205/LeetCode-Daily/tree/master/3827-implement-router) |
+| [3981-jump-game-ix](https://github.com/nicked1205/LeetCode-Daily/tree/master/3981-jump-game-ix) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nicked1205/LeetCode-Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3981-jump-game-ix](https://github.com/nicked1205/LeetCode-Daily/tree/master/3981-jump-game-ix) |
 ## Greedy
 |  |
 | ------- |
