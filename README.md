@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/nicked1205/LeetCode-Daily/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/nicked1205/LeetCode-Daily/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3827-implement-router](https://github.com/nicked1205/LeetCode-Daily/tree/master/3827-implement-router) |
 ## Binary Search
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/nicked1205/LeetCode-Daily/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Math
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/nicked1205/LeetCode-Daily/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/nicked1205/LeetCode-Daily/tree/master/2048-build-array-from-permutation) |
 | [3336-water-bottles-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3336-water-bottles-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/nicked1205/LeetCode-Daily/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Graph
 |  |
 | ------- |
