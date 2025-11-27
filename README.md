@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nicked1205/LeetCode-Daily/tree/master/0417-pacific-atlantic-water-flow) |
 | [0713-subarray-product-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/nicked1205/LeetCode-Daily/tree/master/0739-daily-temperatures) |
 | [0794-swim-in-rising-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0794-swim-in-rising-water) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nicked1205/LeetCode-Daily/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nicked1205/LeetCode-Daily/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -108,11 +109,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/nicked1205/LeetCode-Daily/tree/master/0739-daily-temperatures) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/nicked1205/LeetCode-Daily/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/nicked1205/LeetCode-Daily/tree/master/0739-daily-temperatures) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/nicked1205/LeetCode-Daily/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Two Pointers
 |  |
