@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/nicked1205/LeetCode-Daily/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3623-count-number-of-trapezoids-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nicked1205/LeetCode-Daily/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/nicked1205/LeetCode-Daily/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3336-water-bottles-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3336-water-bottles-ii) |
+| [3623-count-number-of-trapezoids-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nicked1205/LeetCode-Daily/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nicked1205/LeetCode-Daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/nicked1205/LeetCode-Daily/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nicked1205/LeetCode-Daily/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3623-count-number-of-trapezoids-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3827-implement-router](https://github.com/nicked1205/LeetCode-Daily/tree/master/3827-implement-router) |
 ## Counting
@@ -315,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/nicked1205/LeetCode-Daily/tree/master/2174-next-greater-numerically-balanced-number) |
+## Geometry
+|  |
+| ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
