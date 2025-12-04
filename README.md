@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/nicked1205/LeetCode-Daily/tree/master/0739-daily-temperatures) |
+| [2211-count-collisions-on-a-road](https://github.com/nicked1205/LeetCode-Daily/tree/master/2211-count-collisions-on-a-road) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/nicked1205/LeetCode-Daily/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Monotonic Stack
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nicked1205/LeetCode-Daily/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/nicked1205/LeetCode-Daily/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nicked1205/LeetCode-Daily/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/nicked1205/LeetCode-Daily/tree/master/2211-count-collisions-on-a-road) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nicked1205/LeetCode-Daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nicked1205/LeetCode-Daily/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/nicked1205/LeetCode-Daily/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nicked1205/LeetCode-Daily/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/nicked1205/LeetCode-Daily/tree/master/2169-simple-bank-system) |
+| [2211-count-collisions-on-a-road](https://github.com/nicked1205/LeetCode-Daily/tree/master/2211-count-collisions-on-a-road) |
 | [3336-water-bottles-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3336-water-bottles-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nicked1205/LeetCode-Daily/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
