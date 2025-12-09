@@ -1,8 +1,11 @@
 class Solution {
 public:
     int specialTriplets(vector<int>& nums) {
+        int n = nums.size();
         const long long MOD = 1000000007;
         unordered_map<long long, long long> left, right;
+        left.reserve(n);
+        right.reserve(n);
         
         for (int x : nums) right[x]++;
 
