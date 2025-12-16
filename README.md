@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/nicked1205/LeetCode-Daily/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nicked1205/LeetCode-Daily/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nicked1205/LeetCode-Daily/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/nicked1205/LeetCode-Daily/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3583-count-special-triplets](https://github.com/nicked1205/LeetCode-Daily/tree/master/3583-count-special-triplets) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nicked1205/LeetCode-Daily/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0113-path-sum-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nicked1205/LeetCode-Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/nicked1205/LeetCode-Daily/tree/master/3515-shortest-path-in-a-weighted-tree) |
 ## Design
 |  |
 | ------- |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/nicked1205/LeetCode-Daily/tree/master/1428-jump-game-iii) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/nicked1205/LeetCode-Daily/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/nicked1205/LeetCode-Daily/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/nicked1205/LeetCode-Daily/tree/master/3515-shortest-path-in-a-weighted-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -399,4 +402,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0113-path-sum-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/nicked1205/LeetCode-Daily/tree/master/3515-shortest-path-in-a-weighted-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/nicked1205/LeetCode-Daily/tree/master/3515-shortest-path-in-a-weighted-tree) |
 <!---LeetCode Topics End-->
