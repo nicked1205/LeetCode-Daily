@@ -21,23 +21,19 @@ public:
     long long countPairs(int n, vector<vector<int>>& edges) {
         parent.resize(n);
         size.assign(n, 1);
-
         for (int i = 0; i < n; i++)
             parent[i] = i;
 
         for (auto& e : edges)
             unite(e[0], e[1]);
 
-        unordered_map<int, long long> comp;
-        for (int i = 0; i < n; i++)
-            comp[find(i)]++;
-
         long long res = 0, seen = 0;
-        for (auto& [_, s] : comp) {
-            res += s * seen;
-            seen += s;
+        for (int i = 0; i < n; i++) {
+            if (parent[i] == i) {
+                res += (long long)size[i] * seen;
+                seen += size[i];
+            }
         }
-
         return res;
     }
 };
