@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/nicked1205/LeetCode-Daily/tree/master/0739-daily-temperatures) |
 | [0794-swim-in-rising-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0794-swim-in-rising-water) |
+| [0817-linked-list-components](https://github.com/nicked1205/LeetCode-Daily/tree/master/0817-linked-list-components) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nicked1205/LeetCode-Daily/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nicked1205/LeetCode-Daily/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/nicked1205/LeetCode-Daily/tree/master/1293-three-consecutive-odds) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nicked1205/LeetCode-Daily/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nicked1205/LeetCode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/nicked1205/LeetCode-Daily/tree/master/0013-roman-to-integer) |
+| [0817-linked-list-components](https://github.com/nicked1205/LeetCode-Daily/tree/master/0817-linked-list-components) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nicked1205/LeetCode-Daily/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1338-reduce-array-size-to-the-half](https://github.com/nicked1205/LeetCode-Daily/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nicked1205/LeetCode-Daily/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/nicked1205/LeetCode-Daily/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/nicked1205/LeetCode-Daily/tree/master/0061-rotate-list) |
+| [0817-linked-list-components](https://github.com/nicked1205/LeetCode-Daily/tree/master/0817-linked-list-components) |
 ## Recursion
 |  |
 | ------- |
