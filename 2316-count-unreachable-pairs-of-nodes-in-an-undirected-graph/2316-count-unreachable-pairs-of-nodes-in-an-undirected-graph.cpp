@@ -1,40 +1,43 @@
 class Solution {
 public:
+    vector<int> parent, size;
+
+    int find(int x) {
+        if (parent[x] != x)
+            parent[x] = find(parent[x]);
+        return parent[x];
+    }
+
+    void unite(int a, int b) {
+        a = find(a);
+        b = find(b);
+        if (a == b) return;
+
+        if (size[a] < size[b]) swap(a, b);
+        parent[b] = a;
+        size[a] += size[b];
+    }
+
     long long countPairs(int n, vector<vector<int>>& edges) {
-        vector<vector<int>> adj(n);
-        for (auto& e : edges) {
-            adj[e[0]].push_back(e[1]);
-            adj[e[1]].push_back(e[0]);
-        }
+        parent.resize(n);
+        size.assign(n, 1);
 
-        vector<bool> visited(n, false);
-        vector<long long> sizes;
+        for (int i = 0; i < n; i++)
+            parent[i] = i;
 
-        for (int i = 0; i < n; i++) {
-            if (!visited[i]) {
-                long long sz = 0;
-                dfs(i, adj, visited, sz);
-                sizes.push_back(sz);
-            }
-        }
+        for (auto& e : edges)
+            unite(e[0], e[1]);
 
-        long long res = 0;
-        long long sum = 0;
-        for (long long s : sizes) {
-            res += s * sum;
-            sum += s;
+        unordered_map<int, long long> comp;
+        for (int i = 0; i < n; i++)
+            comp[find(i)]++;
+
+        long long res = 0, seen = 0;
+        for (auto& [_, s] : comp) {
+            res += s * seen;
+            seen += s;
         }
 
         return res;
-    }
-
-    void dfs(int u, vector<vector<int>>& adj,
-             vector<bool>& visited, long long& sz) {
-        visited[u] = true;
-        sz++;
-        for (int v : adj[u]) {
-            if (!visited[v])
-                dfs(v, adj, visited, sz);
-        }
     }
 };
