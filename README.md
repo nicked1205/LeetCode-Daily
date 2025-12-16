@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/nicked1205/LeetCode-Daily/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Heap (Priority Queue)
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0794-swim-in-rising-water) |
 | [1428-jump-game-iii](https://github.com/nicked1205/LeetCode-Daily/tree/master/1428-jump-game-iii) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/nicked1205/LeetCode-Daily/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/nicked1205/LeetCode-Daily/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Number Theory
 |  |
 | ------- |
@@ -362,10 +364,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0794-swim-in-rising-water) |
 | [1428-jump-game-iii](https://github.com/nicked1205/LeetCode-Daily/tree/master/1428-jump-game-iii) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/nicked1205/LeetCode-Daily/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/nicked1205/LeetCode-Daily/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Union Find
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0794-swim-in-rising-water) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/nicked1205/LeetCode-Daily/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Combinatorics
 |  |
 | ------- |
