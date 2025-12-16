@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nicked1205/LeetCode-Daily/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/nicked1205/LeetCode-Daily/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/nicked1205/LeetCode-Daily/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/nicked1205/LeetCode-Daily/tree/master/0078-subsets) |
 | [0407-trapping-rain-water-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nicked1205/LeetCode-Daily/tree/master/0417-pacific-atlantic-water-flow) |
 | [0713-subarray-product-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/0713-subarray-product-less-than-k) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/nicked1205/LeetCode-Daily/tree/master/0078-subsets) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nicked1205/LeetCode-Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nicked1205/LeetCode-Daily/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Tree
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/nicked1205/LeetCode-Daily/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/nicked1205/LeetCode-Daily/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/nicked1205/LeetCode-Daily/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0113-path-sum-ii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/nicked1205/LeetCode-Daily/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Geometry
