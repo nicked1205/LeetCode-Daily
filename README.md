@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nicked1205/LeetCode-Daily/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nicked1205/LeetCode-Daily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/nicked1205/LeetCode-Daily/tree/master/3515-shortest-path-in-a-weighted-tree) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nicked1205/LeetCode-Daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3583-count-special-triplets](https://github.com/nicked1205/LeetCode-Daily/tree/master/3583-count-special-triplets) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nicked1205/LeetCode-Daily/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/nicked1205/LeetCode-Daily/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3336-water-bottles-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nicked1205/LeetCode-Daily/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nicked1205/LeetCode-Daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3623-count-number-of-trapezoids-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3649-number-of-perfect-pairs](https://github.com/nicked1205/LeetCode-Daily/tree/master/3649-number-of-perfect-pairs) |
