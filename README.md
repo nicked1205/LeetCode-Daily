@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/nicked1205/LeetCode-Daily/tree/master/0739-daily-temperatures) |
 | [0794-swim-in-rising-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0794-swim-in-rising-water) |
 | [0817-linked-list-components](https://github.com/nicked1205/LeetCode-Daily/tree/master/0817-linked-list-components) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nicked1205/LeetCode-Daily/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nicked1205/LeetCode-Daily/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nicked1205/LeetCode-Daily/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/nicked1205/LeetCode-Daily/tree/master/1293-three-consecutive-odds) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/nicked1205/LeetCode-Daily/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/nicked1205/LeetCode-Daily/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/nicked1205/LeetCode-Daily/tree/master/0066-plus-one) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nicked1205/LeetCode-Daily/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nicked1205/LeetCode-Daily/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/nicked1205/LeetCode-Daily/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/nicked1205/LeetCode-Daily/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nicked1205/LeetCode-Daily/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/nicked1205/LeetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0817-linked-list-components](https://github.com/nicked1205/LeetCode-Daily/tree/master/0817-linked-list-components) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nicked1205/LeetCode-Daily/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nicked1205/LeetCode-Daily/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1338-reduce-array-size-to-the-half](https://github.com/nicked1205/LeetCode-Daily/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nicked1205/LeetCode-Daily/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/nicked1205/LeetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nicked1205/LeetCode-Daily/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nicked1205/LeetCode-Daily/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/nicked1205/LeetCode-Daily/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/nicked1205/LeetCode-Daily/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -389,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nicked1205/LeetCode-Daily/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/nicked1205/LeetCode-Daily/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/nicked1205/LeetCode-Daily/tree/master/2584-split-the-array-to-make-coprime-products) |
