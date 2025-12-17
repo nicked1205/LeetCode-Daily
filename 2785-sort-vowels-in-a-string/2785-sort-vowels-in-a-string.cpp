@@ -1,9 +1,11 @@
 class Solution {
 public:
     string sortVowels(string s) {
+        int n = s.size();
         vector<int> map;
         vector<int> cs;
-        int n = s.size();
+        map.reserve(n);
+        cs.reserve(n);
         for (int i = 0; i < n; i++) {
             int c = tolower(s[i]);
             if (c == 'a' || c == 'i' || c == 'o' || c == 'e' || c == 'u') {
