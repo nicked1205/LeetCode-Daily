@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nicked1205/LeetCode-Daily/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2418-sort-the-people](https://github.com/nicked1205/LeetCode-Daily/tree/master/2418-sort-the-people) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/nicked1205/LeetCode-Daily/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/nicked1205/LeetCode-Daily/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/nicked1205/LeetCode-Daily/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nicked1205/LeetCode-Daily/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nicked1205/LeetCode-Daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/nicked1205/LeetCode-Daily/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nicked1205/LeetCode-Daily/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/nicked1205/LeetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/nicked1205/LeetCode-Daily/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3827-implement-router](https://github.com/nicked1205/LeetCode-Daily/tree/master/3827-implement-router) |
 ## Ordered Set
 |  |
@@ -460,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/nicked1205/LeetCode-Daily/tree/master/0274-h-index) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/nicked1205/LeetCode-Daily/tree/master/2444-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
