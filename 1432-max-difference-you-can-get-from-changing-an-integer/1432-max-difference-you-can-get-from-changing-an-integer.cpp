@@ -2,8 +2,6 @@ class Solution {
 public:
     int maxDiff(int num) {
         string s = to_string(num);
-
-        // Build max number
         string maxS = s;
         char repMax = 0;
         for (char c : s) {
