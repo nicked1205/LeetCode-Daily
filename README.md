@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/nicked1205/LeetCode-Daily/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/nicked1205/LeetCode-Daily/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/nicked1205/LeetCode-Daily/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/nicked1205/LeetCode-Daily/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/nicked1205/LeetCode-Daily/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/nicked1205/LeetCode-Daily/tree/master/0088-merge-sorted-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nicked1205/LeetCode-Daily/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/nicked1205/LeetCode-Daily/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/nicked1205/LeetCode-Daily/tree/master/0064-minimum-path-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/nicked1205/LeetCode-Daily/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/nicked1205/LeetCode-Daily/tree/master/0868-push-dominoes) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nicked1205/LeetCode-Daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nicked1205/LeetCode-Daily/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/nicked1205/LeetCode-Daily/tree/master/0064-minimum-path-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nicked1205/LeetCode-Daily/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0794-swim-in-rising-water) |
