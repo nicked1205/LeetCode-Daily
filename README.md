@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0794-swim-in-rising-water) |
 | [0817-linked-list-components](https://github.com/nicked1205/LeetCode-Daily/tree/master/0817-linked-list-components) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nicked1205/LeetCode-Daily/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nicked1205/LeetCode-Daily/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nicked1205/LeetCode-Daily/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/nicked1205/LeetCode-Daily/tree/master/1293-three-consecutive-odds) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nicked1205/LeetCode-Daily/tree/master/0022-generate-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/nicked1205/LeetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0868-push-dominoes](https://github.com/nicked1205/LeetCode-Daily/tree/master/0868-push-dominoes) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nicked1205/LeetCode-Daily/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nicked1205/LeetCode-Daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/nicked1205/LeetCode-Daily/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nicked1205/LeetCode-Daily/tree/master/0055-jump-game) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nicked1205/LeetCode-Daily/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1338-reduce-array-size-to-the-half](https://github.com/nicked1205/LeetCode-Daily/tree/master/1338-reduce-array-size-to-the-half) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/nicked1205/LeetCode-Daily/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
