@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nicked1205/LeetCode-Daily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nicked1205/LeetCode-Daily/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nicked1205/LeetCode-Daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2182-construct-string-with-repeat-limit](https://github.com/nicked1205/LeetCode-Daily/tree/master/2182-construct-string-with-repeat-limit) |
 | [2211-count-collisions-on-a-road](https://github.com/nicked1205/LeetCode-Daily/tree/master/2211-count-collisions-on-a-road) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nicked1205/LeetCode-Daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nicked1205/LeetCode-Daily/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/nicked1205/LeetCode-Daily/tree/master/1338-reduce-array-size-to-the-half) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/nicked1205/LeetCode-Daily/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nicked1205/LeetCode-Daily/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2182-construct-string-with-repeat-limit](https://github.com/nicked1205/LeetCode-Daily/tree/master/2182-construct-string-with-repeat-limit) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nicked1205/LeetCode-Daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/nicked1205/LeetCode-Daily/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2663-lexicographically-smallest-beautiful-string](https://github.com/nicked1205/LeetCode-Daily/tree/master/2663-lexicographically-smallest-beautiful-string) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/nicked1205/LeetCode-Daily/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2169-simple-bank-system](https://github.com/nicked1205/LeetCode-Daily/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/nicked1205/LeetCode-Daily/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2182-construct-string-with-repeat-limit](https://github.com/nicked1205/LeetCode-Daily/tree/master/2182-construct-string-with-repeat-limit) |
 | [2215-finding-3-digit-even-numbers](https://github.com/nicked1205/LeetCode-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nicked1205/LeetCode-Daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2418-sort-the-people](https://github.com/nicked1205/LeetCode-Daily/tree/master/2418-sort-the-people) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/nicked1205/LeetCode-Daily/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/nicked1205/LeetCode-Daily/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/nicked1205/LeetCode-Daily/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2182-construct-string-with-repeat-limit](https://github.com/nicked1205/LeetCode-Daily/tree/master/2182-construct-string-with-repeat-limit) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nicked1205/LeetCode-Daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nicked1205/LeetCode-Daily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3583-count-special-triplets](https://github.com/nicked1205/LeetCode-Daily/tree/master/3583-count-special-triplets) |
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0794-swim-in-rising-water) |
 | [1338-reduce-array-size-to-the-half](https://github.com/nicked1205/LeetCode-Daily/tree/master/1338-reduce-array-size-to-the-half) |
 | [1845-seat-reservation-manager](https://github.com/nicked1205/LeetCode-Daily/tree/master/1845-seat-reservation-manager) |
+| [2182-construct-string-with-repeat-limit](https://github.com/nicked1205/LeetCode-Daily/tree/master/2182-construct-string-with-repeat-limit) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
