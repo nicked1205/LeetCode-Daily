@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nicked1205/LeetCode-Daily/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/nicked1205/LeetCode-Daily/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/nicked1205/LeetCode-Daily/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/nicked1205/LeetCode-Daily/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0045-jump-game-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/nicked1205/LeetCode-Daily/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/nicked1205/LeetCode-Daily/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/nicked1205/LeetCode-Daily/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/nicked1205/LeetCode-Daily/tree/master/0088-merge-sorted-array) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/nicked1205/LeetCode-Daily/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/nicked1205/LeetCode-Daily/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/nicked1205/LeetCode-Daily/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/nicked1205/LeetCode-Daily/tree/master/0274-h-index) |
 | [1338-reduce-array-size-to-the-half](https://github.com/nicked1205/LeetCode-Daily/tree/master/1338-reduce-array-size-to-the-half) |
