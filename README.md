@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/nicked1205/LeetCode-Daily/tree/master/1192-critical-connections-in-a-network) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/nicked1205/LeetCode-Daily/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0113-path-sum-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nicked1205/LeetCode-Daily/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0794-swim-in-rising-water) |
+| [1192-critical-connections-in-a-network](https://github.com/nicked1205/LeetCode-Daily/tree/master/1192-critical-connections-in-a-network) |
 | [1428-jump-game-iii](https://github.com/nicked1205/LeetCode-Daily/tree/master/1428-jump-game-iii) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/nicked1205/LeetCode-Daily/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/nicked1205/LeetCode-Daily/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -502,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/nicked1205/LeetCode-Daily/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/nicked1205/LeetCode-Daily/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
