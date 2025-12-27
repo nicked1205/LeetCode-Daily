@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nicked1205/LeetCode-Daily/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1428-jump-game-iii](https://github.com/nicked1205/LeetCode-Daily/tree/master/1428-jump-game-iii) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/nicked1205/LeetCode-Daily/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/nicked1205/LeetCode-Daily/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nicked1205/LeetCode-Daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nicked1205/LeetCode-Daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2048-build-array-from-permutation](https://github.com/nicked1205/LeetCode-Daily/tree/master/2048-build-array-from-permutation) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/nicked1205/LeetCode-Daily/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nicked1205/LeetCode-Daily/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/nicked1205/LeetCode-Daily/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/nicked1205/LeetCode-Daily/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1642-water-bottles](https://github.com/nicked1205/LeetCode-Daily/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/nicked1205/LeetCode-Daily/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/nicked1205/LeetCode-Daily/tree/master/1925-count-square-sum-triples) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nicked1205/LeetCode-Daily/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1338-reduce-array-size-to-the-half](https://github.com/nicked1205/LeetCode-Daily/tree/master/1338-reduce-array-size-to-the-half) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/nicked1205/LeetCode-Daily/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/nicked1205/LeetCode-Daily/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nicked1205/LeetCode-Daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2182-construct-string-with-repeat-limit](https://github.com/nicked1205/LeetCode-Daily/tree/master/2182-construct-string-with-repeat-limit) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nicked1205/LeetCode-Daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/nicked1205/LeetCode-Daily/tree/master/0274-h-index) |
 | [1338-reduce-array-size-to-the-half](https://github.com/nicked1205/LeetCode-Daily/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nicked1205/LeetCode-Daily/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/nicked1205/LeetCode-Daily/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nicked1205/LeetCode-Daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2215-finding-3-digit-even-numbers](https://github.com/nicked1205/LeetCode-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -538,4 +542,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/nicked1205/LeetCode-Daily/tree/master/1192-critical-connections-in-a-network) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/nicked1205/LeetCode-Daily/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
