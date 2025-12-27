@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/nicked1205/LeetCode-Daily/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nicked1205/LeetCode-Daily/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2402-meeting-rooms-iii](https://github.com/nicked1205/LeetCode-Daily/tree/master/2402-meeting-rooms-iii) |
 | [2418-sort-the-people](https://github.com/nicked1205/LeetCode-Daily/tree/master/2418-sort-the-people) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/nicked1205/LeetCode-Daily/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2182-construct-string-with-repeat-limit](https://github.com/nicked1205/LeetCode-Daily/tree/master/2182-construct-string-with-repeat-limit) |
 | [2215-finding-3-digit-even-numbers](https://github.com/nicked1205/LeetCode-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nicked1205/LeetCode-Daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2402-meeting-rooms-iii](https://github.com/nicked1205/LeetCode-Daily/tree/master/2402-meeting-rooms-iii) |
 | [2418-sort-the-people](https://github.com/nicked1205/LeetCode-Daily/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nicked1205/LeetCode-Daily/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/nicked1205/LeetCode-Daily/tree/master/2584-split-the-array-to-make-coprime-products) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nicked1205/LeetCode-Daily/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/nicked1205/LeetCode-Daily/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/nicked1205/LeetCode-Daily/tree/master/2211-count-collisions-on-a-road) |
+| [2402-meeting-rooms-iii](https://github.com/nicked1205/LeetCode-Daily/tree/master/2402-meeting-rooms-iii) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/nicked1205/LeetCode-Daily/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3336-water-bottles-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3336-water-bottles-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nicked1205/LeetCode-Daily/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/nicked1205/LeetCode-Daily/tree/master/1338-reduce-array-size-to-the-half) |
 | [1845-seat-reservation-manager](https://github.com/nicked1205/LeetCode-Daily/tree/master/1845-seat-reservation-manager) |
 | [2182-construct-string-with-repeat-limit](https://github.com/nicked1205/LeetCode-Daily/tree/master/2182-construct-string-with-repeat-limit) |
+| [2402-meeting-rooms-iii](https://github.com/nicked1205/LeetCode-Daily/tree/master/2402-meeting-rooms-iii) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nicked1205/LeetCode-Daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2215-finding-3-digit-even-numbers](https://github.com/nicked1205/LeetCode-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nicked1205/LeetCode-Daily/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2402-meeting-rooms-iii](https://github.com/nicked1205/LeetCode-Daily/tree/master/2402-meeting-rooms-iii) |
 | [2418-sort-the-people](https://github.com/nicked1205/LeetCode-Daily/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nicked1205/LeetCode-Daily/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2785-sort-vowels-in-a-string](https://github.com/nicked1205/LeetCode-Daily/tree/master/2785-sort-vowels-in-a-string) |
