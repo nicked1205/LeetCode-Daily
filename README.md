@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/nicked1205/LeetCode-Daily/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/nicked1205/LeetCode-Daily/tree/master/0739-daily-temperatures) |
 | [2211-count-collisions-on-a-road](https://github.com/nicked1205/LeetCode-Daily/tree/master/2211-count-collisions-on-a-road) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nicked1205/LeetCode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/nicked1205/LeetCode-Daily/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/nicked1205/LeetCode-Daily/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/nicked1205/LeetCode-Daily/tree/master/0032-longest-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/nicked1205/LeetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0868-push-dominoes](https://github.com/nicked1205/LeetCode-Daily/tree/master/0868-push-dominoes) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nicked1205/LeetCode-Daily/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/nicked1205/LeetCode-Daily/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nicked1205/LeetCode-Daily/tree/master/0055-jump-game) |
