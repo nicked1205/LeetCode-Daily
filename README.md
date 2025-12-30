@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/nicked1205/LeetCode-Daily/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/nicked1205/LeetCode-Daily/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/nicked1205/LeetCode-Daily/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/nicked1205/LeetCode-Daily/tree/master/2672-number-of-adjacent-elements-with-the-same-color) |
 | [2761-prime-pairs-with-target-sum](https://github.com/nicked1205/LeetCode-Daily/tree/master/2761-prime-pairs-with-target-sum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/nicked1205/LeetCode-Daily/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/nicked1205/LeetCode-Daily/tree/master/3075-maximize-happiness-of-selected-children) |
