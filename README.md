@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/nicked1205/LeetCode-Daily/tree/master/2672-number-of-adjacent-elements-with-the-same-color) |
 | [2761-prime-pairs-with-target-sum](https://github.com/nicked1205/LeetCode-Daily/tree/master/2761-prime-pairs-with-target-sum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/nicked1205/LeetCode-Daily/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/nicked1205/LeetCode-Daily/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nicked1205/LeetCode-Daily/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/nicked1205/LeetCode-Daily/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nicked1205/LeetCode-Daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nicked1205/LeetCode-Daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nicked1205/LeetCode-Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nicked1205/LeetCode-Daily/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -556,4 +558,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/nicked1205/LeetCode-Daily/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Memoization
+|  |
+| ------- |
+| [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 <!---LeetCode Topics End-->
