@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nicked1205/LeetCode-Daily/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nicked1205/LeetCode-Daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nicked1205/LeetCode-Daily/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1366-rank-teams-by-votes](https://github.com/nicked1205/LeetCode-Daily/tree/master/1366-rank-teams-by-votes) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nicked1205/LeetCode-Daily/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nicked1205/LeetCode-Daily/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nicked1205/LeetCode-Daily/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/nicked1205/LeetCode-Daily/tree/master/0868-push-dominoes) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nicked1205/LeetCode-Daily/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1366-rank-teams-by-votes](https://github.com/nicked1205/LeetCode-Daily/tree/master/1366-rank-teams-by-votes) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nicked1205/LeetCode-Daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/nicked1205/LeetCode-Daily/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nicked1205/LeetCode-Daily/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nicked1205/LeetCode-Daily/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1338-reduce-array-size-to-the-half](https://github.com/nicked1205/LeetCode-Daily/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nicked1205/LeetCode-Daily/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1366-rank-teams-by-votes](https://github.com/nicked1205/LeetCode-Daily/tree/master/1366-rank-teams-by-votes) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nicked1205/LeetCode-Daily/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nicked1205/LeetCode-Daily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/nicked1205/LeetCode-Daily/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/nicked1205/LeetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nicked1205/LeetCode-Daily/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nicked1205/LeetCode-Daily/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1366-rank-teams-by-votes](https://github.com/nicked1205/LeetCode-Daily/tree/master/1366-rank-teams-by-votes) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nicked1205/LeetCode-Daily/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/nicked1205/LeetCode-Daily/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/nicked1205/LeetCode-Daily/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -416,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/nicked1205/LeetCode-Daily/tree/master/0274-h-index) |
 | [1338-reduce-array-size-to-the-half](https://github.com/nicked1205/LeetCode-Daily/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nicked1205/LeetCode-Daily/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1366-rank-teams-by-votes](https://github.com/nicked1205/LeetCode-Daily/tree/master/1366-rank-teams-by-votes) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/nicked1205/LeetCode-Daily/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nicked1205/LeetCode-Daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2215-finding-3-digit-even-numbers](https://github.com/nicked1205/LeetCode-Daily/tree/master/2215-finding-3-digit-even-numbers) |
