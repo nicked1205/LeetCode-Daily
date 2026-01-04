@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nicked1205/LeetCode-Daily/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/nicked1205/LeetCode-Daily/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3194-find-words-containing-character](https://github.com/nicked1205/LeetCode-Daily/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nicked1205/LeetCode-Daily/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nicked1205/LeetCode-Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/nicked1205/LeetCode-Daily/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/nicked1205/LeetCode-Daily/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nicked1205/LeetCode-Daily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3583-count-special-triplets](https://github.com/nicked1205/LeetCode-Daily/tree/master/3583-count-special-triplets) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/nicked1205/LeetCode-Daily/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2182-construct-string-with-repeat-limit](https://github.com/nicked1205/LeetCode-Daily/tree/master/2182-construct-string-with-repeat-limit) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nicked1205/LeetCode-Daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nicked1205/LeetCode-Daily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3583-count-special-triplets](https://github.com/nicked1205/LeetCode-Daily/tree/master/3583-count-special-triplets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3629-total-characters-in-string-after-transformations-i) |
