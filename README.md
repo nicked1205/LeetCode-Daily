@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nicked1205/LeetCode-Daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nicked1205/LeetCode-Daily/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1366-rank-teams-by-votes](https://github.com/nicked1205/LeetCode-Daily/tree/master/1366-rank-teams-by-votes) |
+| [1390-four-divisors](https://github.com/nicked1205/LeetCode-Daily/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nicked1205/LeetCode-Daily/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nicked1205/LeetCode-Daily/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nicked1205/LeetCode-Daily/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/nicked1205/LeetCode-Daily/tree/master/0840-magic-squares-in-grid) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nicked1205/LeetCode-Daily/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/nicked1205/LeetCode-Daily/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [1390-four-divisors](https://github.com/nicked1205/LeetCode-Daily/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nicked1205/LeetCode-Daily/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/nicked1205/LeetCode-Daily/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/nicked1205/LeetCode-Daily/tree/master/1561-maximum-number-of-coins-you-can-get) |
