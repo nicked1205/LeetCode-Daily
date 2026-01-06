@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0113-path-sum-ii) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nicked1205/LeetCode-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nicked1205/LeetCode-Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/nicked1205/LeetCode-Daily/tree/master/3515-shortest-path-in-a-weighted-tree) |
 ## Design
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/nicked1205/LeetCode-Daily/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0794-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/nicked1205/LeetCode-Daily/tree/master/0827-making-a-large-island) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nicked1205/LeetCode-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1428-jump-game-iii](https://github.com/nicked1205/LeetCode-Daily/tree/master/1428-jump-game-iii) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/nicked1205/LeetCode-Daily/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/nicked1205/LeetCode-Daily/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/nicked1205/LeetCode-Daily/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0794-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/nicked1205/LeetCode-Daily/tree/master/0827-making-a-large-island) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nicked1205/LeetCode-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/nicked1205/LeetCode-Daily/tree/master/1192-critical-connections-in-a-network) |
 | [1428-jump-game-iii](https://github.com/nicked1205/LeetCode-Daily/tree/master/1428-jump-game-iii) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/nicked1205/LeetCode-Daily/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0113-path-sum-ii) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nicked1205/LeetCode-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
