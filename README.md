@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/nicked1205/LeetCode-Daily/tree/master/1192-critical-connections-in-a-network) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/nicked1205/LeetCode-Daily/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/nicked1205/LeetCode-Daily/tree/master/2608-shortest-cycle-in-a-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Heap (Priority Queue)
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/nicked1205/LeetCode-Daily/tree/master/1428-jump-game-iii) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/nicked1205/LeetCode-Daily/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/nicked1205/LeetCode-Daily/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/nicked1205/LeetCode-Daily/tree/master/2608-shortest-cycle-in-a-graph) |
 ## Number Theory
 |  |
 | ------- |
