@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/nicked1205/LeetCode-Daily/tree/master/1428-jump-game-iii) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/nicked1205/LeetCode-Daily/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/nicked1205/LeetCode-Daily/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nicked1205/LeetCode-Daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nicked1205/LeetCode-Daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nicked1205/LeetCode-Daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1895-largest-magic-square](https://github.com/nicked1205/LeetCode-Daily/tree/master/1895-largest-magic-square) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/nicked1205/LeetCode-Daily/tree/master/0868-push-dominoes) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/nicked1205/LeetCode-Daily/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/nicked1205/LeetCode-Daily/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nicked1205/LeetCode-Daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nicked1205/LeetCode-Daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nicked1205/LeetCode-Daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/nicked1205/LeetCode-Daily/tree/master/0827-making-a-large-island) |
 | [0840-magic-squares-in-grid](https://github.com/nicked1205/LeetCode-Daily/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nicked1205/LeetCode-Daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nicked1205/LeetCode-Daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1895-largest-magic-square](https://github.com/nicked1205/LeetCode-Daily/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/nicked1205/LeetCode-Daily/tree/master/1975-maximum-matrix-sum) |
 | [2080-check-if-move-is-legal](https://github.com/nicked1205/LeetCode-Daily/tree/master/2080-check-if-move-is-legal) |
