@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/nicked1205/LeetCode-Daily/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/nicked1205/LeetCode-Daily/tree/master/0088-merge-sorted-array) |
+| [0165-compare-version-numbers](https://github.com/nicked1205/LeetCode-Daily/tree/master/0165-compare-version-numbers) |
 | [0868-push-dominoes](https://github.com/nicked1205/LeetCode-Daily/tree/master/0868-push-dominoes) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nicked1205/LeetCode-Daily/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nicked1205/LeetCode-Daily/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nicked1205/LeetCode-Daily/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/nicked1205/LeetCode-Daily/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nicked1205/LeetCode-Daily/tree/master/0032-longest-valid-parentheses) |
+| [0165-compare-version-numbers](https://github.com/nicked1205/LeetCode-Daily/tree/master/0165-compare-version-numbers) |
 | [0387-first-unique-character-in-a-string](https://github.com/nicked1205/LeetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0868-push-dominoes](https://github.com/nicked1205/LeetCode-Daily/tree/master/0868-push-dominoes) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
