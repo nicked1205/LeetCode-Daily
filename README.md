@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/nicked1205/LeetCode-Daily/tree/master/2672-number-of-adjacent-elements-with-the-same-color) |
 | [2761-prime-pairs-with-target-sum](https://github.com/nicked1205/LeetCode-Daily/tree/master/2761-prime-pairs-with-target-sum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/nicked1205/LeetCode-Daily/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2951-find-the-peaks](https://github.com/nicked1205/LeetCode-Daily/tree/master/2951-find-the-peaks) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/nicked1205/LeetCode-Daily/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/nicked1205/LeetCode-Daily/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/nicked1205/LeetCode-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2761-prime-pairs-with-target-sum](https://github.com/nicked1205/LeetCode-Daily/tree/master/2761-prime-pairs-with-target-sum) |
+| [2951-find-the-peaks](https://github.com/nicked1205/LeetCode-Daily/tree/master/2951-find-the-peaks) |
 | [3574-maximize-subarray-gcd-score](https://github.com/nicked1205/LeetCode-Daily/tree/master/3574-maximize-subarray-gcd-score) |
 ## Bit Manipulation
 |  |
