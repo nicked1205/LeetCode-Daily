@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/nicked1205/LeetCode-Daily/tree/master/0817-linked-list-components) |
 | [0827-making-a-large-island](https://github.com/nicked1205/LeetCode-Daily/tree/master/0827-making-a-large-island) |
 | [0840-magic-squares-in-grid](https://github.com/nicked1205/LeetCode-Daily/tree/master/0840-magic-squares-in-grid) |
+| [0904-fruit-into-baskets](https://github.com/nicked1205/LeetCode-Daily/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nicked1205/LeetCode-Daily/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0928-minimize-malware-spread-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0928-minimize-malware-spread-ii) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nicked1205/LeetCode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/nicked1205/LeetCode-Daily/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nicked1205/LeetCode-Daily/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nicked1205/LeetCode-Daily/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nicked1205/LeetCode-Daily/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/nicked1205/LeetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0817-linked-list-components](https://github.com/nicked1205/LeetCode-Daily/tree/master/0817-linked-list-components) |
 | [0840-magic-squares-in-grid](https://github.com/nicked1205/LeetCode-Daily/tree/master/0840-magic-squares-in-grid) |
+| [0904-fruit-into-baskets](https://github.com/nicked1205/LeetCode-Daily/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nicked1205/LeetCode-Daily/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0928-minimize-malware-spread-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0928-minimize-malware-spread-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nicked1205/LeetCode-Daily/tree/master/1227-number-of-equivalent-domino-pairs) |
