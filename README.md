@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/nicked1205/LeetCode-Daily/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0794-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/nicked1205/LeetCode-Daily/tree/master/0827-making-a-large-island) |
+| [0841-keys-and-rooms](https://github.com/nicked1205/LeetCode-Daily/tree/master/0841-keys-and-rooms) |
 | [0928-minimize-malware-spread-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0928-minimize-malware-spread-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nicked1205/LeetCode-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1428-jump-game-iii](https://github.com/nicked1205/LeetCode-Daily/tree/master/1428-jump-game-iii) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/nicked1205/LeetCode-Daily/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0794-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/nicked1205/LeetCode-Daily/tree/master/0827-making-a-large-island) |
+| [0841-keys-and-rooms](https://github.com/nicked1205/LeetCode-Daily/tree/master/0841-keys-and-rooms) |
 | [0928-minimize-malware-spread-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0928-minimize-malware-spread-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nicked1205/LeetCode-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/nicked1205/LeetCode-Daily/tree/master/1192-critical-connections-in-a-network) |
@@ -614,5 +616,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/nicked1205/LeetCode-Daily/tree/master/0841-keys-and-rooms) |
 | [0928-minimize-malware-spread-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0928-minimize-malware-spread-ii) |
 <!---LeetCode Topics End-->
