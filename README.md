@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/nicked1205/LeetCode-Daily/tree/master/0827-making-a-large-island) |
 | [0840-magic-squares-in-grid](https://github.com/nicked1205/LeetCode-Daily/tree/master/0840-magic-squares-in-grid) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nicked1205/LeetCode-Daily/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0928-minimize-malware-spread-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0928-minimize-malware-spread-ii) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nicked1205/LeetCode-Daily/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nicked1205/LeetCode-Daily/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/nicked1205/LeetCode-Daily/tree/master/0817-linked-list-components) |
 | [0840-magic-squares-in-grid](https://github.com/nicked1205/LeetCode-Daily/tree/master/0840-magic-squares-in-grid) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nicked1205/LeetCode-Daily/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0928-minimize-malware-spread-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0928-minimize-malware-spread-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nicked1205/LeetCode-Daily/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1338-reduce-array-size-to-the-half](https://github.com/nicked1205/LeetCode-Daily/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nicked1205/LeetCode-Daily/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/nicked1205/LeetCode-Daily/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0794-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/nicked1205/LeetCode-Daily/tree/master/0827-making-a-large-island) |
+| [0928-minimize-malware-spread-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0928-minimize-malware-spread-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nicked1205/LeetCode-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1428-jump-game-iii](https://github.com/nicked1205/LeetCode-Daily/tree/master/1428-jump-game-iii) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/nicked1205/LeetCode-Daily/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/nicked1205/LeetCode-Daily/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/nicked1205/LeetCode-Daily/tree/master/0794-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/nicked1205/LeetCode-Daily/tree/master/0827-making-a-large-island) |
+| [0928-minimize-malware-spread-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0928-minimize-malware-spread-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nicked1205/LeetCode-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/nicked1205/LeetCode-Daily/tree/master/1192-critical-connections-in-a-network) |
 | [1428-jump-game-iii](https://github.com/nicked1205/LeetCode-Daily/tree/master/1428-jump-game-iii) |
@@ -603,4 +607,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0928-minimize-malware-spread-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0928-minimize-malware-spread-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0928-minimize-malware-spread-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0928-minimize-malware-spread-ii) |
 <!---LeetCode Topics End-->
