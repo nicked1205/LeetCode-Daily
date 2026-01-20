@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nicked1205/LeetCode-Daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nicked1205/LeetCode-Daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nicked1205/LeetCode-Daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2320-count-number-of-ways-to-place-houses](https://github.com/nicked1205/LeetCode-Daily/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nicked1205/LeetCode-Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
