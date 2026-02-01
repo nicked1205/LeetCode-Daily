@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/nicked1205/LeetCode-Daily/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nicked1205/LeetCode-Daily/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/nicked1205/LeetCode-Daily/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/nicked1205/LeetCode-Daily/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/nicked1205/LeetCode-Daily/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/nicked1205/LeetCode-Daily/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nicked1205/LeetCode-Daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nicked1205/LeetCode-Daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/nicked1205/LeetCode-Daily/tree/master/2320-count-number-of-ways-to-place-houses) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/nicked1205/LeetCode-Daily/tree/master/2547-minimum-cost-to-split-an-array) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nicked1205/LeetCode-Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/nicked1205/LeetCode-Daily/tree/master/2402-meeting-rooms-iii) |
 | [2418-sort-the-people](https://github.com/nicked1205/LeetCode-Daily/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nicked1205/LeetCode-Daily/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/nicked1205/LeetCode-Daily/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/nicked1205/LeetCode-Daily/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/nicked1205/LeetCode-Daily/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/nicked1205/LeetCode-Daily/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/nicked1205/LeetCode-Daily/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2182-construct-string-with-repeat-limit](https://github.com/nicked1205/LeetCode-Daily/tree/master/2182-construct-string-with-repeat-limit) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nicked1205/LeetCode-Daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/nicked1205/LeetCode-Daily/tree/master/2547-minimum-cost-to-split-an-array) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nicked1205/LeetCode-Daily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3583-count-special-triplets](https://github.com/nicked1205/LeetCode-Daily/tree/master/3583-count-special-triplets) |
