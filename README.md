@@ -499,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/nicked1205/LeetCode-Daily/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0113-path-sum-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nicked1205/LeetCode-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nicked1205/LeetCode-Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/nicked1205/LeetCode-Daily/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0113-path-sum-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nicked1205/LeetCode-Daily/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/nicked1205/LeetCode-Daily/tree/master/0695-max-area-of-island) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/nicked1205/LeetCode-Daily/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0113-path-sum-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nicked1205/LeetCode-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Indexed Tree
