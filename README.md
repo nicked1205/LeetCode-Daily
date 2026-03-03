@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3194-find-words-containing-character](https://github.com/nicked1205/LeetCode-Daily/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nicked1205/LeetCode-Daily/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/nicked1205/LeetCode-Daily/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nicked1205/LeetCode-Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nicked1205/LeetCode-Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/nicked1205/LeetCode-Daily/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nicked1205/LeetCode-Daily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3583-count-special-triplets](https://github.com/nicked1205/LeetCode-Daily/tree/master/3583-count-special-triplets) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nicked1205/LeetCode-Daily/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/nicked1205/LeetCode-Daily/tree/master/0061-rotate-list) |
 | [0817-linked-list-components](https://github.com/nicked1205/LeetCode-Daily/tree/master/0817-linked-list-components) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/nicked1205/LeetCode-Daily/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
