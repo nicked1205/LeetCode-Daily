@@ -19,9 +19,9 @@ private:
                 }
             }
 
-            cout << res[0] << ", " << res[1] << endl;
-            cout << max << endl;
-            cout << maxDirI << endl;
+            // cout << res[0] << ", " << res[1] << endl;
+            // cout << max << endl;
+            // cout << maxDirI << endl;
 
             if (maxDirI == -1) break;
 
