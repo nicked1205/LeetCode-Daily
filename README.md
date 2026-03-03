@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nicked1205/LeetCode-Daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/nicked1205/LeetCode-Daily/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1895-largest-magic-square](https://github.com/nicked1205/LeetCode-Daily/tree/master/1895-largest-magic-square) |
+| [1901-find-a-peak-element-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/1901-find-a-peak-element-ii) |
 | [1975-maximum-matrix-sum](https://github.com/nicked1205/LeetCode-Daily/tree/master/1975-maximum-matrix-sum) |
 | [2048-build-array-from-permutation](https://github.com/nicked1205/LeetCode-Daily/tree/master/2048-build-array-from-permutation) |
 | [2080-check-if-move-is-legal](https://github.com/nicked1205/LeetCode-Daily/tree/master/2080-check-if-move-is-legal) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nicked1205/LeetCode-Daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nicked1205/LeetCode-Daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/nicked1205/LeetCode-Daily/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1901-find-a-peak-element-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/1901-find-a-peak-element-ii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nicked1205/LeetCode-Daily/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/nicked1205/LeetCode-Daily/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nicked1205/LeetCode-Daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nicked1205/LeetCode-Daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1895-largest-magic-square](https://github.com/nicked1205/LeetCode-Daily/tree/master/1895-largest-magic-square) |
+| [1901-find-a-peak-element-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/1901-find-a-peak-element-ii) |
 | [1975-maximum-matrix-sum](https://github.com/nicked1205/LeetCode-Daily/tree/master/1975-maximum-matrix-sum) |
 | [2080-check-if-move-is-legal](https://github.com/nicked1205/LeetCode-Daily/tree/master/2080-check-if-move-is-legal) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nicked1205/LeetCode-Daily/tree/master/2244-number-of-laser-beams-in-a-bank) |
