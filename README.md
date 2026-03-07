@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nicked1205/LeetCode-Daily/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nicked1205/LeetCode-Daily/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nicked1205/LeetCode-Daily/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nicked1205/LeetCode-Daily/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/nicked1205/LeetCode-Daily/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nicked1205/LeetCode-Daily/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/nicked1205/LeetCode-Daily/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/nicked1205/LeetCode-Daily/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nicked1205/LeetCode-Daily/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nicked1205/LeetCode-Daily/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nicked1205/LeetCode-Daily/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nicked1205/LeetCode-Daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2182-construct-string-with-repeat-limit](https://github.com/nicked1205/LeetCode-Daily/tree/master/2182-construct-string-with-repeat-limit) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/nicked1205/LeetCode-Daily/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/nicked1205/LeetCode-Daily/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nicked1205/LeetCode-Daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nicked1205/LeetCode-Daily/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nicked1205/LeetCode-Daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nicked1205/LeetCode-Daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/nicked1205/LeetCode-Daily/tree/master/2320-count-number-of-ways-to-place-houses) |
