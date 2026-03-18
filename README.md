@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/nicked1205/LeetCode-Daily/tree/master/2951-find-the-peaks) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nicked1205/LeetCode-Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/nicked1205/LeetCode-Daily/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nicked1205/LeetCode-Daily/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/nicked1205/LeetCode-Daily/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/nicked1205/LeetCode-Daily/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/nicked1205/LeetCode-Daily/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/nicked1205/LeetCode-Daily/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nicked1205/LeetCode-Daily/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/nicked1205/LeetCode-Daily/tree/master/1975-maximum-matrix-sum) |
 | [2080-check-if-move-is-legal](https://github.com/nicked1205/LeetCode-Daily/tree/master/2080-check-if-move-is-legal) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nicked1205/LeetCode-Daily/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nicked1205/LeetCode-Daily/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
