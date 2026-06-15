@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nicked1205/LeetCode-Daily/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/nicked1205/LeetCode-Daily/tree/master/0165-compare-version-numbers) |
 | [0868-push-dominoes](https://github.com/nicked1205/LeetCode-Daily/tree/master/0868-push-dominoes) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nicked1205/LeetCode-Daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nicked1205/LeetCode-Daily/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nicked1205/LeetCode-Daily/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nicked1205/LeetCode-Daily/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nicked1205/LeetCode-Daily/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/nicked1205/LeetCode-Daily/tree/master/0061-rotate-list) |
 | [0817-linked-list-components](https://github.com/nicked1205/LeetCode-Daily/tree/master/0817-linked-list-components) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nicked1205/LeetCode-Daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/nicked1205/LeetCode-Daily/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
