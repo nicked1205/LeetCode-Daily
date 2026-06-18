@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nicked1205/LeetCode-Daily/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/nicked1205/LeetCode-Daily/tree/master/0840-magic-squares-in-grid) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nicked1205/LeetCode-Daily/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/nicked1205/LeetCode-Daily/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/nicked1205/LeetCode-Daily/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1390-four-divisors](https://github.com/nicked1205/LeetCode-Daily/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nicked1205/LeetCode-Daily/tree/master/1421-find-numbers-with-even-number-of-digits) |
