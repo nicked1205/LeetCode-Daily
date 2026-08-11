@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nicked1205/LeetCode-Daily/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0928-minimize-malware-spread-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0928-minimize-malware-spread-ii) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0986-interval-list-intersections](https://github.com/nicked1205/LeetCode-Daily/tree/master/0986-interval-list-intersections) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nicked1205/LeetCode-Daily/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nicked1205/LeetCode-Daily/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/nicked1205/LeetCode-Daily/tree/master/1293-three-consecutive-odds) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nicked1205/LeetCode-Daily/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/nicked1205/LeetCode-Daily/tree/master/0165-compare-version-numbers) |
 | [0868-push-dominoes](https://github.com/nicked1205/LeetCode-Daily/tree/master/0868-push-dominoes) |
+| [0986-interval-list-intersections](https://github.com/nicked1205/LeetCode-Daily/tree/master/0986-interval-list-intersections) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nicked1205/LeetCode-Daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nicked1205/LeetCode-Daily/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nicked1205/LeetCode-Daily/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -680,4 +682,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0841-keys-and-rooms](https://github.com/nicked1205/LeetCode-Daily/tree/master/0841-keys-and-rooms) |
 | [0928-minimize-malware-spread-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/0928-minimize-malware-spread-ii) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/nicked1205/LeetCode-Daily/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
