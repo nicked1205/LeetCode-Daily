@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2761-prime-pairs-with-target-sum](https://github.com/nicked1205/LeetCode-Daily/tree/master/2761-prime-pairs-with-target-sum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/nicked1205/LeetCode-Daily/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2951-find-the-peaks](https://github.com/nicked1205/LeetCode-Daily/tree/master/2951-find-the-peaks) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nicked1205/LeetCode-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nicked1205/LeetCode-Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nicked1205/LeetCode-Daily/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/nicked1205/LeetCode-Daily/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/nicked1205/LeetCode-Daily/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nicked1205/LeetCode-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nicked1205/LeetCode-Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/nicked1205/LeetCode-Daily/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nicked1205/LeetCode-Daily/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2785-sort-vowels-in-a-string](https://github.com/nicked1205/LeetCode-Daily/tree/master/2785-sort-vowels-in-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nicked1205/LeetCode-Daily/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nicked1205/LeetCode-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/nicked1205/LeetCode-Daily/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nicked1205/LeetCode-Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nicked1205/LeetCode-Daily/tree/master/3437-maximum-total-damage-with-spell-casting) |
