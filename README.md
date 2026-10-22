@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/nicked1205/LeetCode-Daily/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/nicked1205/LeetCode-Daily/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3827-implement-router](https://github.com/nicked1205/LeetCode-Daily/tree/master/3827-implement-router) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/nicked1205/LeetCode-Daily/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3981-jump-game-ix](https://github.com/nicked1205/LeetCode-Daily/tree/master/3981-jump-game-ix) |
 ## Binary Search
 |  |
